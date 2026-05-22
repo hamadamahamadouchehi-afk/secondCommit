@@ -1,3 +1,6 @@
+<?php
+echo "Hello everybody . Welcome to my first PHP project.";
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
